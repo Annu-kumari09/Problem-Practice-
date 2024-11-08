@@ -1,1 +1,17 @@
-# Problem-Practice-
+# Problem-Practice
+-> Spy Number
+->Duck Number
+->Tech Number
+->Buzz Number
+->Disarium Number
+->Tribonacci Number
+->Magic Number
+->Abundant Number
+->Neon Number
+->Armstrong Number
+->Pronic Number
+->Harshad Number
+->Harshed Magic Number
+->Dudeney Number
+->Niven Number
+->Bouncy Number
